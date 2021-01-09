@@ -149,6 +149,7 @@ button img {
   color: hsla(0, 36%, 70%, 1);
   font-size: 0.75rem;
   margin: 0.5rem 0 0 1rem;
+  text-align: left;
 }
 
 /* credit */
