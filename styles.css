@@ -48,7 +48,7 @@ body {
 .right {
   background-image: url("images/hero-mobile.jpg");
   background-size: cover;
-  height: 60vh;
+  height: 40vh;
   width: 100vw;
 }
 
